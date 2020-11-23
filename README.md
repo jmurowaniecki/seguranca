@@ -1,4 +1,6 @@
-# Segurança
+# Segurança na web
+
+Trabelhei por alguns anos administrando servidores linux, também administrei meus servidores VPS algum tempo e durante muitos anos tenho trabalhado com programação com PHP e guardei muitas receitinhas de bolo sobre segurança durante este tempo. Estou trazendo o resultado disso, mas desta vez não tive disposição para converter os txt em markdown. Espero queu ainda assim seja útil aos que procuram por segurança na web.
 
 Me parece que em geral programadores web se comportam como se não tivessem nada com segurança nem com a falta dele. Mas é bom lembrar que ela é ou deveria ser um item do seu trabalho, para que então se torne um diferencial.
 
